@@ -1,0 +1,14 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.listado {
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}

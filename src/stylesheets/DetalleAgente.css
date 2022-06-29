@@ -1,0 +1,35 @@
+.img-agente {
+    text-align: center;  
+}
+
+.descripcion-agente {
+    padding-right: 100px;
+}
+
+img {
+    height: 440px;
+}
+
+.row {
+    margin-top: 30px;
+    padding-bottom: 25px;
+    --bs-gutter-x: 0;
+}
+
+h2 {
+    color: #EF3A4B;
+    font-size: 1.0in;
+    font-family: 'VALORANT'
+}
+
+p {
+    font-size: 0.2in;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F2E5E4;
+}
+
+.btn-volver {
+    font-family: 'VALORANT';
+    font-size: 0.35in;
+    text-decoration: none;
+}

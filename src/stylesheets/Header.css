@@ -1,0 +1,8 @@
+header {
+    text-align: center;
+}
+
+header > img {
+    height: 110px;
+    margin: 20px 0px 10px 0px;
+}

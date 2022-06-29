@@ -1,0 +1,31 @@
+.card {
+    border: 3px solid #EF3A4B;
+    --bs-card-title-spacer-y: 0;
+    margin: 30px 20px 0px 20px;
+    width: 225px;
+}
+
+.img-card {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #0E1921;
+    border-radius: 3px 3px 0 0;
+}
+
+.img-card > img {
+    height: 200px;
+}
+
+.card-title {
+    text-align: center;
+    padding: 10px;
+    background-color: #EF3A4B;
+    color: #F2E5E4;
+    font-family: 'VALORANT'
+}
+
+@font-face {
+    font-family: 'Valorant';
+    src: url('../assets/fonts/ValorantFont.ttf')  format('truetype');
+}
